@@ -30,6 +30,6 @@ namespace Nbit
                 Console.Write(Bits[i]);
             }
             Console.WriteLine("");
-        }
+        } heheheheheh
     }
 }
